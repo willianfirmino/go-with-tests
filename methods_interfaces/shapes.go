@@ -1,4 +1,4 @@
-package shapes
+package methods_interfaces
 
 import "math"
 
